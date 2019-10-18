@@ -750,7 +750,7 @@ button:focus {
 		margin: 3px 10px 0 0;
 	}
 	.menu__item span {
-		display: inside;
+		display: outside;
 	}
 	.codrops-header {
 		padding: 0.5em 0;
