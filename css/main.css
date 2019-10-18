@@ -489,7 +489,7 @@ button:focus {
 }
 
 .item:first-of-type {
-	opacity: 0.25;
+	opacity: 0.6;
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
@@ -533,13 +533,13 @@ button:focus {
 }
 
 .item:first-of-type .item__content::before {
-	background: #b8b8b8;
+	background: #585558;
 	-webkit-transform: translate3d(0,-20px,0) scale3d(0.9,0.9,1);
 	transform: translate3d(0,-20px,0) scale3d(0.9,0.9,1);
 }
 
 .item:first-of-type .item__content::after {
-	background: #a7a7a7;
+	background: #4F4E4E;
 	-webkit-transform: translate3d(0,-10px,0) scale3d(0.95,0.95,1);
 	transform: translate3d(0,-10px,0) scale3d(0.95,0.95,1);
 }
@@ -743,15 +743,14 @@ button:focus {
 		font-size: 1.75em;
 	}
 	.menu__item {
-		display: block;
 		background: #4F4E4E;
-		overflow: hidden;
+		overflow: visible;
 		height: 4px;
 		width: 30px;
 		margin: 3px 10px 0 0;
 	}
 	.menu__item span {
-		display: none;
+		display: inside;
 	}
 	.codrops-header {
 		padding: 0.5em 0;
