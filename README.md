@@ -1,6 +1,6 @@
 # Daria Oprya Photography
 
-A photography website for Daria Oprya with tilt effect.
+A photography website for Daria Oprya.
 
 
 ## License
@@ -15,6 +15,6 @@ Camera icons made by [Freepik](http://www.flaticon.com/authors/freepik "Freepik"
 
 ## Misc
 
-Follow me: [Twitter](http://www.twitter.com/darkydaff), [GitHub](https://github.com/codrops)
+Follow me: [Twitter](http://www.twitter.com/darkydaff), [GitHub](https://github.com/darkydaff)
 
 [© darkydaff 2019](http://vk.com/darkydaff)
